@@ -1,0 +1,22 @@
+{
+  "name": "basic-webapp",
+  "version": "0.0.1",
+  "description": "A Basic Web Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrianhall/node-stuff"
+  },
+  "author": "adrian@shellmonger.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianhall/node-stuff/issues"
+  },
+  "homepage": "https://github.com/adrianhall/node-stuff",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
