@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/adrianhall/node-stuff",
   "dependencies": {
+    "ejs": "^2.3.1",
     "express": "^4.12.3"
   }
 }
