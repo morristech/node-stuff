@@ -1,0 +1,32 @@
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+  background: #222;
+}
+
+#outer {
+  position: relative;
+  top: 40vh;
+  width: 50vw;
+  margin: 0 auto;
+  border: 1px solid #999;
+  background-color: wheat;
+  border-radius: 10px;
+}
+
+#outer .row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+#outer h2 {
+  font-family: 'Segoe UI', Frutiger, 'Frutiger Linotype', 'Dejavu Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+}
+
+.social-buttons {
+  padding: 8px;
+}

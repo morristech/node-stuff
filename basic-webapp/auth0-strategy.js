@@ -1,17 +1,19 @@
-var passport = require('passport');
-var Auth0Strategy = require('passport-auth0');
+/*eslint-env node */
+
+"use strict";
+
+var passport = require("passport"),
+    Auth0Strategy = require("passport-auth0"),
+    config = require("./config.json");
 
 var strategy = new Auth0Strategy({
-    domain:       '{{DOMAIN}}.auth0.com',
-    clientID:     '{{CLIENTID}}',
-    clientSecret: '{{CLIENTSECRET}}',
-    callbackURL:  '/callback'
-  }, function(accessToken, refreshToken, extraParams, profile, done) {
-    // accessToken is the token to call Auth0 API (not needed in the most cases)
-    // extraParams.id_token has the JSON Web Token
-    // profile has all the information from the user
-    return done(null, profile);
-  });
+  domain: config.passport.auth0.domain,
+  clientID: config.passport.auth0.clientid,
+  clientSecret: config.passport.auth0.clientsecret,
+  callbackURL: "/account/external-callback"
+}, function(accessToken, refreshToken, extraParams, profile, done) {
+  return done(null, profile);
+});
 
 passport.use(strategy);
 

@@ -1,0 +1,15 @@
+{
+  "loginRoute": "/account/login",
+  "server": {
+    "uri": "http://localhost:3000",
+    "port": 3000
+  },
+  "passport": {
+    "auth0": {
+      "domain": "{{DOMAIN}}.auth0.com",
+      "clientid": "{{CLIENTID}}",
+      "clientsecret": "{{CLIENTSECRET}}",
+      "connections": [ "facebook", "windowslive", "google-oauth2", "twitter" ]
+    }
+  }
+}
