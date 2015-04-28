@@ -22,6 +22,14 @@ function defaultProperties(req) {
 }
 
 /**
+ * Render an appropriate view
+ */
+function view(req, res, viewName, locals) {
+  res.render(controller + "/" + viewName + ".html",
+    extend({}, defaultProperties(req), locals));
+}
+
+/**
  * GET /{controller=Home}/index
  */
 function index(req, res) {
@@ -29,9 +37,7 @@ function index(req, res) {
     res.redirect(loginRoute);
     return;
   }
-  res.render(controller + "/index.html", extend({}, defaultProperties(req), {
-    title: "Home"
-  }));
+  view("index", { title: "Home" });
 }
 
 // Per-route functionality

@@ -11,6 +11,10 @@ var express = require("express"),
 var router = express.Router(), // eslint-disable-line new-cap
     controller = path.basename(__filename, ".js");
 
+/**
+ * Build a URL for a specific provider based on the configuration and
+ * the provider name
+ */
 function buildurl(provider) {
   var server = config.server.uri || "http://localhost:3000";
 
@@ -22,8 +26,9 @@ function buildurl(provider) {
 
   return url;
 }
+
 /**
- * GET /{controller=Home}/login
+ * GET /{controller}/login
  */
 function login(req, res) {
   var locals = {
@@ -38,12 +43,15 @@ function login(req, res) {
   res.render(controller + "/login.html", locals);
 }
 
+/**
+ * GET /{controller}/logout
+ */
 function logout(req, res) {
   req.logout();
   res.redirect("/");
 }
 
-// Per-route functionality
+// Wire up Per-route functionality
 router.get("/login", login);
 router.get("/logout", logout);
 
