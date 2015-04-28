@@ -37,7 +37,7 @@ function index(req, res) {
     res.redirect(loginRoute);
     return;
   }
-  view("index", { title: "Home" });
+  view(req, res, "index", { title: "Home" });
 }
 
 // Per-route functionality
