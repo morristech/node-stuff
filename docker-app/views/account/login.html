@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+
+  <!-- Bootstrap, Bootstrap-Social, Font-Awesome -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  <!-- My minimal stylesheet -->
+  <link rel="stylesheet" href="/client/bootstrap-social.css">
+  <link rel="stylesheet" href="/client/login.css">
+  <title>Login | Basic WebApp</title>
+</head>
+<body>
+  <div id="outer">
+    <h2>Login with your Social Provider</h2>
+    <div class="row">
+      <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 social-buttons">
+        <a class="btn btn-block btn-social btn-twitter" href="<%= connections.twitter %>">
+          <i class="fa fa-twitter"></i> Sign in with Twitter
+        </a>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 social-buttons">
+        <a class="btn btn-block btn-social btn-facebook" href="<%= connections.facebook %>">
+          <i class="fa fa-facebook"></i> Sign in with Facebook
+        </a>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 social-buttons">
+        <a class="btn btn-block btn-social btn-microsoft" href="<%= connections.windowslive %>">
+          <i class="fa fa-windows"></i> Sign in with Microsoft
+        </a>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 social-buttons">
+        <a class="btn btn-block btn-social btn-google" href="<%= connections.google_oauth2 %>">
+          <i class="fa fa-google"></i> Sign in with Google
+        </a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

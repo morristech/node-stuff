@@ -1,0 +1,362 @@
+Level,Name,School,Ritual,Page,Bard,Cleric,Druid,Paladin,Ranger,Sorcerer,Warlock,Wizard,Casting Time,Range,Components,Mcomponent,Consumed,Duration
+0,Acid Splash,Conjuration,No,211,No,No,No,No,No,Yes,No,No,1 action,60 feet,VS,,,Instantaneous
+2,Aid,Abjuration,No,211,No,Yes,No,Yes,No,No,No,No,1 action,30 feet,VSM,A tiny strip of white cloth,No,8 Hours
+1,Alarm,Abjuration,Yes,211,No,No,No,No,Yes,No,No,Yes,1 minute,30 feet,VSM,A tiny bell and a piece of fine silver wire,No,8 hours
+2,Alter Self,Transmutation,No,211,No,No,No,No,No,Yes,No,Yes,1 action,self,VS,,,"Concentration, up to 1 hour"
+1,Animal Friendship,Enchantment,No,212,Yes,No,Yes,No,Yes,No,No,No,1 action,30 feet,VSM,A morsel of food,No,24 hours
+2,Animal Messenger,Enchantment,Yes,212,Yes,No,Yes,No,Yes,No,No,No,1 action,30 feet,VSM,A morsel of food,No,24 hours
+8,Animal Shapes,Transmutation,No,212,No,No,Yes,No,No,No,No,No,1 action,30 feet,VS,,,"Concentration, up to 24 hours"
+3,Animate Dead,Necromancy,No,212,No,Yes,No,No,No,No,No,Yes,1 minute,10 feet,VSM,"A drop of blood, a piece of flesh and a pinch of bone dust",No,Instantaneous
+5,Animate Objects,Transmutation,No,213,Yes,No,No,No,No,Yes,No,Yes,1 action,120 feet,VS,,,"Concentration, up to 1 minute"
+5,Antilife Shell,Abjuration,No,213,No,No,Yes,No,No,No,No,No,1 action,self (10-foot radius),VS,,,"Concentration, up to 1 hour"
+8,Antimagic Field,Abjuration,No,213,No,Yes,No,No,No,No,No,Yes,1 action,self (10-foot radius sphere),VSM,A pinch of powdered iron or iron filings,No,"Concentration, up to 1 hour"
+8,Antipathy/Sympathy,Enchantment,No,214,No,No,Yes,No,No,No,No,Yes,1 hour,60 feet,VSM,Either a lump of alum soaked in vinegar for the <em>antipathy</em> effect or a drop of honey for the <em>sympathy</em> effect,No,10 days
+4,Arcane Eye,Divination,No,214,No,No,No,No,No,No,No,Yes,1 action,30 feet,VSM,A bit of bat fur,No,"Concentration, up to 1 hour"
+6,Arcane Gate,Conjuration,No,214,No,No,No,No,No,Yes,Yes,Yes,1 action,500 feet,VS,,,"Concentration, up to 10 minutes"
+2,Arcane Lock,Abjuration,No,215,No,No,No,No,No,No,No,Yes,1 action,touch,VSM,Gold dust worth at least 25 gp,Yes,Until dispelled
+1,Armor of Agathys,Abjuration,No,215,No,No,No,No,No,No,Yes,No,1 action,self,VSM,A cup of water,No,1 hour
+1,Arms of Hadar,Conjuration,No,215,No,No,No,No,No,No,Yes,No,1 action,self (10-foot radius),VS,,,Instantaneous
+9,Astral Projection,Necromancy,No,215,No,Yes,No,No,No,No,Yes,Yes,1 hour,10 feet,VSM,"For each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp",Yes,Special
+2,Augury,Divination,Yes,215,No,Yes,No,No,No,No,No,No,1 minute,self,VSM,"Specially marked sticks, bones or similar tokens worth at least 25 gp",No,Instantaneous
+4,Aura of Life,Abjuration,No,216,No,No,No,Yes,No,No,No,No,1 action,self (30-foot radius),V,,,"Concentration, up to 10 minutes"
+4,Aura of Purity,Abjuration,No,216,No,No,No,Yes,No,No,No,No,1 action,self (30-foot radius),V,,,"Concentration, up to 10 minutes"
+3,Auta of Vitality,Abjuration,No,216,No,No,No,Yes,No,No,No,No,1 action,self (30-foot radius),V,,,"Concentration, up to 1 minute"
+5,Awaken,Transmutation,No,216,Yes,No,Yes,No,No,No,No,No,8 hours,touch,VSM,"An agate worth at least 1,000 gp",Yes,Instantaneous
+1,Bane,Enchantment,No,216,Yes,Yes,No,No,No,No,No,No,1 action,30 feet,VSM,a drop of blood,No,"Concentration, up to 1 minute"
+1,Banishing Smite,Abjuration,No,216,No,No,No,Yes,No,No,No,No,1 bonus action,self,V,,,"Concentration, up to 1 minute"
+4,Banishment,Abjuration,No,217,No,Yes,No,Yes,No,Yes,Yes,Yes,1 action,60 feet,VSM,An item distasteful to the target,No,"Concentration, up to 1 minute"
+2,Barkskin,Transmutation,No,217,No,No,Yes,No,Yes,No,No,Yes,1 action,touch,VSM,A handful of oak bark,No,"Concentration, up to 1 hour"
+3,Beacon of Hope,Abjuration,No,217,No,Yes,No,No,No,No,No,No,1 action,30 feet,VS,,,"Concentration, up to 1 minute"
+2,Beast Sense,Divination,Yes,217,No,No,Yes,No,Yes,No,No,No,1 action,touch,S,,,"Concentration, up to 1 hour"
+3,Bestow Curse,Necromancy,No,218,Yes,Yes,No,No,No,No,No,Yes,1 action,touch,VS,,,"Concentration, up to 1 minute"
+5,Bigby's Hand,Evocation,No,218,No,No,No,No,No,No,No,Yes,1 action,120 feet,VSM,An eggshell and a snakeskin glove,No,"Concentration, up to 1 minute"
+6,Blade Barrier,Evocation,No,218,No,Yes,No,No,No,No,No,No,1 action,90 feet,VS,,,"Concentration, up to 10 minutes"
+0,Blade Ward,Abjuration,No,218,Yes,No,No,No,No,Yes,Yes,Yes,1 action,self,VS,,,1 round
+1,Bless,Enchantment,No,219,No,Yes,No,Yes,No,No,No,No,1 action,30 feet,VSM,A sprinkling of holy water,No,"Concentration, up to 1 minute"
+4,Blight,Necromancy,No,219,No,No,Yes,No,No,No,Yes,Yes,1 action,30 feet,VS,,,Instantaneous
+3,Blinding Smite,Evocation,No,219,No,No,No,Yes,No,No,No,No,1 bonus action,self,V,,,"Concentration, up to 1 minute"
+2,Blindness/Deafness,Necromancy,No,219,Yes,Yes,No,No,No,Yes,No,Yes,1 action,30 feet,V,,,1 minute
+3,Blink,Transmutation,No,219,No,No,No,No,No,Yes,No,Yes,1 action,self,VS,,,1 minute
+2,Blur,Illusion,No,219,No,No,No,No,No,Yes,No,Yes,1 action,self,V,,,"Concentration, up to 1 minute"
+2,Branding Smite,Evocation,No,219,No,No,No,Yes,No,No,No,No,1 bonus action,self,VS,,,"Concentration, up to 1 minute"
+1,Burning Hands,Evocation,No,220,No,No,No,No,No,Yes,No,Yes,1 action,self (15-foot cone),VS,,,Instantaneous
+3,Call Lightning,Conjuration,No,220,No,No,Yes,No,No,No,No,No,1 action,120 feet,VS,,,"Concentration, up to 10 minutes"
+2,Calm Emotions,Enchantment,No,221,Yes,Yes,No,No,No,No,No,No,1 action,60 feet,VS,,,"Concentration, up to 1 minute"
+6,Chain Lightning,Evocation,No,221,No,No,No,No,No,Yes,No,Yes,1 action,150 feet,VSM,"A bit of fut; a piece of amber, flass or a crystal rod; and three silver pins",No,Instantaneous
+1,Charm Person,Enchantment,No,221,Yes,No,Yes,No,No,Yes,Yes,Yes,1 action,30 feet,VS,,,1 hour
+0,Chill Touch,Necromancy,No,221,No,No,No,No,No,Yes,Yes,Yes,1 action,120 feet,VS,,,1 round
+1,Chromatic Orb,Evocation,No,221,No,No,No,No,No,Yes,No,Yes,1 action,90 feet,VSM,A diamond worth at least 50 gp,No,Instantaneous
+6,Circle of Death,Necromancy,No,221,No,No,No,No,No,Yes,Yes,Yes,1 action,150 feet,VSM,The powder of a crushed black pearl worth at least 500 gp,No,Instantaneous
+5,Circle of Power,Abjuration,No,221,No,No,No,Yes,No,No,No,No,1 action,self (30-foot radius),V,,,"Concentration, up to 10 minutes"
+3,Clairvoyance,Divination,No,222,Yes,Yes,No,No,No,Yes,No,Yes,10 minutes,1 mile,VSM,"A focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing",No,"Concentration, up to 10 minutes"
+8,Clone,Necromancy,No,222,No,No,No,No,No,No,No,Yes,1 hour,touch,VSM,"A diamon wodth at least 1,000 gp and at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a Medium creature, such as a huge urn, coffin, mud-filled cyst in the ground, or crystal container filled with salt water.",Yes,Instantaneous
+2,Cloud of Daggers,Conjuration,No,222,Yes,No,No,No,No,Yes,Yes,Yes,1 action,60 feet,VSM,A Sliver of glass,No,"Concentration, up to 1 minute"
+5,Cloudkill,Conjuration,No,222,No,No,No,No,No,No,No,Yes,1 action,120 feet,VS,,,"Concentration, up to 10 minutes"
+1,Color Spray,Illusion,No,222,No,No,No,No,No,Yes,No,Yes,1 action,self (15-foot cone),VSM,"A pinch of powder or sand that is colored red, yellow, and blue",No,1 round
+1,Command,Enchantment,No,223,No,Yes,No,Yes,No,No,No,No,1 action,60 feet,V,,,1 round
+5,Commune,Divination,Yes,223,No,Yes,No,No,No,No,No,No,1 minute,self,VSM,Incense and a vial of holy or unholy water,No,1 minute
+5,Commune with Nature,Divination,Yes,224,No,No,Yes,No,Yes,No,No,No,1 minute,self,VS,,,Instantaneous
+1,Compelled Duel,Enchantment,No,224,No,No,No,Yes,No,No,No,No,1 bonus action,30 feet,V,,,"Concentration, up to 1 minute"
+1,Comprehend Languages,Divination,Yes,224,Yes,No,No,No,No,Yes,Yes,Yes,1 action,self,VSM,A pinch of soot and salt,No,1 hour
+4,Compulsion,Enchantment,No,224,Yes,No,No,No,No,No,No,No,1 action,30 feet,VS,,,"Concentration, up to 1 minute"
+5,Cone of Cold,Evocation,No,224,No,No,No,No,No,Yes,No,Yes,1 action,self (60-foot cone),VSM,A small crystal or glass cone,No,Instantaneous
+4,Confusion,Enchantment,No,224,Yes,No,No,No,No,Yes,No,Yes,1 action,90 feet,VSM,Three nut shells,No,"Concentration, up to 1 minute"
+3,Conjure Animals,Conjuration,No,225,No,No,Yes,No,Yes,No,No,No,1 action,60 feet,VS,,,"Concentration, up to 1 hour"
+3,Conjure Barrage,Conjuration,No,225,No,No,No,No,Yes,No,No,No,1 action,self (60-foot cone),VSM,One piece of ammunition or a thrown weapon,No,Instantaneous
+7,Conjure Celestial,Conjuration,No,225,No,Yes,No,No,No,No,No,No,1 minute,90 feet,VS,,,"Concentration, up to 1 hour"
+5,Conjure Elemental,Conjuration,No,225,No,No,Yes,No,No,No,No,Yes,1 minute,90 feet,VSM,"Burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water",No,"Concentration, up to 1 hour"
+6,Conjure Fey,Conjuration,No,226,No,No,Yes,No,No,No,Yes,No,1 minute,90 feet,VS,,,"Concentration, up to 1 hour"
+4,Conjure MInor Elementals,Conjuration,No,226,No,No,Yes,No,No,No,No,Yes,1 minute,90 feet,VS,,,"Concentration, up to 1 hour"
+5,Conjure Volley,Conjuration,No,226,No,No,No,No,Yes,No,No,No,1 action,150 feet,VSM,One piece of ammunition or a thrown weapon,No,Instantaneous
+4,Conjure Woodland Beings,Conjuration,No,226,No,No,Yes,No,Yes,No,No,No,1 action,60 feet,VSM,One holly berry per creature summoned,No,"Concentration, up to 1 hour"
+5,Contact Other Plane,Divination,Yes,226,No,No,No,No,No,No,Yes,Yes,1 minute,self,V,,,1 minute
+5,Contagion,Necromancy,No,227,No,Yes,Yes,No,No,No,No,No,1 action,touch,VS,,,7 days
+6,Contingency,Evocation,No,227,No,No,No,No,No,No,No,Yes,10 minutes,self,VSM,"A statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp",No,10 days
+2,Continual Flame,Evocation,No,227,No,Yes,No,No,No,No,No,Yes,1 action,touch,VSM,Ruby dust worth 50 gp,Yes,Until dispelled
+4,Control Water,Transmutation,No,227,No,Yes,Yes,No,No,No,No,Yes,1 action,300 feet,VSM,A drop of water and a pinch of dust,No,"Concentration, up to 10 minutes"
+8,Control Weather,Transmutation,No,228,No,Yes,Yes,No,No,No,No,Yes,10 minutes,self (5-mile radius),VSM,Burning incense and bits of earth and wood mixed in water,No,"Concentration, up to 8 hours"
+2,Cordon of Arrows,Transmutation,No,228,No,No,No,No,Yes,No,No,Yes,1 action,5 feet,VSM,Four or more arrows or bolts,No,8 hours
+3,Counterspell,Abjuration,No,228,No,No,No,No,No,Yes,Yes,Yes,"1 reaction, which you take when you see a creature within 60 feet of you casting a spell",60 feet,S,,,Instantaneous
+3,Create Food and Water,Conjuration,No,229,No,Yes,No,Yes,No,No,No,No,1 action,30 feet,VS,,,Instantaneous
+1,Create or Destroy Water,Transmutation,No,229,No,Yes,Yes,No,No,No,No,No,1 action,30 feet,VSM,A drop of water if creating water or a few grains of sand if destroying it,No,Instantaneous
+6,Create Undead,Necromancy,No,229,No,Yes,No,No,No,No,Yes,Yes,1 minute,10 feet,VSM,"One clay pot filled with grave dirt, one clay pot filled with brackish water and one 150 gp black onyx stone for each corpse",No,Instantaneous
+5,Creation,Illusion,No,229,No,No,No,No,No,Yes,No,Yes,1 minute,30 feet,VSM,A tiny piece of matter of the same type of the item  you plan to create,No,Special
+2,Crown of Madness,Enchantment,No,229,Yes,No,No,No,No,Yes,Yes,Yes,1 action,120 feet,VS,,,"Concentration, up to 1 minute"
+3,Crusader's Mantle,Evocation,No,230,No,No,No,Yes,No,No,No,No,1 action,self,V,,,"Concentration, up to 1 minute"
+1,Cure Wounds,Evocation,No,230,Yes,Yes,Yes,Yes,No,No,No,No,1 action,touch,VS,,,Instantaneous
+0,Dancing Lights,Evocation,No,230,Yes,No,No,No,No,Yes,No,Yes,1 action,120 feet,VSM,"A bit of phosphorus or wychwood, or a glowworm",No,"Concentration, up to 1 minute"
+2,Darkness,Evocation,No,230,No,No,No,No,No,Yes,Yes,Yes,1 action,60 feet,VM,Bat fur and a drop of pitch or piece of coal,No,"Concentration, up to 10 minutes"
+2,Darkvision,Transmutation,No,230,No,No,Yes,No,No,Yes,No,Yes,1 action,touch,VSM,Either a pinch of dried carrot or an agate,No,8 hours
+3,Daylight,Evocation,No,230,No,Yes,Yes,No,Yes,Yes,No,No,1 action,60 feet,VS,,,1 hour
+4,Death Ward,Abjuration,No,230,No,Yes,No,Yes,No,No,No,No,1 action,touch,VS,,,8 hours
+7,Delayed Blast Fireball,Evocation,No,230,No,No,No,No,No,Yes,No,Yes,1 action,150 feet,VSM,A tiny ball of bat guano and sulfur,No,"Concentration, up to 1 minute"
+8,Demiplane,Conjuration,No,231,No,No,No,No,No,No,Yes,Yes,1 action,60 feet,S,,,1 hour
+5,Destructive Wave/Destructive Smite,Evocation,No,231,No,No,No,Yes,No,No,No,No,1 action,self (30-foot radius),V,,,Instantaneous
+1,Detect Evil and Good,Divination,No,231,No,Yes,No,Yes,No,No,No,No,1 action,self,VS,,,"Concentration, up to 10 minutes"
+1,Detect Magic,Divination,Yes,231,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,1 action,self,VS,,,"Concentration, up to 10 minutes"
+1,Detect Poison and Disease,Divination,Yes,231,No,Yes,Yes,Yes,Yes,No,No,No,1 action,self,VSM,A yew leaf,No,"Concentration, up to 10 minutes"
+2,Detect Thoughts,Divination,No,231,No,No,No,No,No,No,No,Yes,1 action,self,VSM,A copper piece,No,"Concentration, up to 1 minute"
+4,Dimension Door,Conjuration,No,233,Yes,No,No,No,No,Yes,Yes,Yes,1 action,500 feet,V,,,Instantaneous
+1,Disguise Self,Illusion,No,233,Yes,No,No,No,No,Yes,No,Yes,1 action,self,VS,,,1 hour
+6,Disintegrate,Transmutation,No,233,No,No,No,No,No,Yes,No,Yes,1 action,60 feet,VSM,A lodestone and a pinch of dust,No,Instantaneous
+5,Dispel Evil and Good,Abjuration,No,233,No,Yes,No,Yes,No,No,No,No,1 action,self,VSM,holy water or powdered silver and iron,No,"Concentration, up to 1 minute"
+3,Dispel Magic,Abjuration,No,234,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1 action,120 feet,VS,,,Instantaneous
+1,Dissonant Whispers,Enchantment,No,234,Yes,No,No,No,No,No,No,No,1 action,60 feet,V,,,Instantaneous
+4,Divination,Divination,Yes,234,No,Yes,No,No,No,No,No,No,1 action,self,VSM,"Incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp",Yes,Instantaneous
+1,Divine Favor,Evocation,No,234,No,No,No,Yes,No,No,No,No,1 bonus action,self,VS,,,"Concentration, up to 1 minute"
+7,Divine Word,Evocation,No,234,No,Yes,No,No,No,No,No,Yes,1 bonus action,30 feet,V,,,Instantaneous
+4,Dominate Beast,Enchantment,No,234,No,No,Yes,No,No,Yes,No,No,1 action,1 action,VS,,,"Concentration, up to 1 minute"
+8,Dominate Monster,Enchantment,No,234,Yes,No,No,No,No,Yes,Yes,Yes,1 action,60 feet,VS,,,"Concentration, up to 1 hour"
+5,Dominate Person,Enchantment,No,235,Yes,No,No,No,No,Yes,No,Yes,1 action,60 feet,VS,,,"Concentration, up to 1 minute"
+6,Drawmij's Instant Summons,Conjuration,Yes,235,No,No,No,No,No,No,No,Yes,1 minute,touch,VSM,"A Sapphire worth 1,000 gp (cannot be re-used)",No,Until dispelled
+5,Dream,Illusion,No,236,Yes,No,No,No,No,No,Yes,Yes,1 minute,special,VSM,"A handful of sand, a dab of ink and a writing quill plucked from a sleeping bird",No,8 hours
+0,Druidcraft,Transmutation,No,236,No,No,Yes,No,No,No,No,No,1 action,30 feet,VS,,,Instantaneous
+8,Earthquake,Evocation,No,235,No,Yes,Yes,No,No,Yes,No,No,1 action,500 feet,VSM,"A pinch of dirt, a piece of rock, and a lump of lay",No,"Concentration, up to 1 minute"
+0,Eldritch Blast,Evocation,No,236,No,No,No,No,No,No,Yes,No,1 action,120 feet,VS,,,Instantaneous
+3,Elemental Weapon,Transmutation,No,236,No,No,No,Yes,No,No,No,No,1 action,touch,VS,,,"Concentration, up to 1 hour"
+2,Enhance Ability,Transmutation,No,237,Yes,No,No,No,No,Yes,No,No,1 action,touch,VSM,Fur or a feather from a beast,No,"Concentration, up to 1 hour"
+2,Enlarge/Reduce,Transmutation,No,237,No,No,No,No,No,Yes,No,Yes,1 action,30 feet,VSM,A pinch of powdered iron or iron filings,No,"Concentration, up to 1 minute"
+1,Ensnaring Strike,Conjuration,No,237,No,No,No,No,Yes,No,No,No,1 bonus action,self,V,,,"Concentration, up to 1 minute"
+1,Entangle,Conjuration,No,238,No,No,Yes,No,No,No,No,No,1 action,90 feet,VS,,,"Concentration, up to 1 minute"
+2,Enthrall,Enchantment,No,238,Yes,No,No,No,No,No,Yes,No,1 action,60 feet,VS,,,1 minute
+7,Etherealness,Transmutation,No,238,Yes,No,No,No,No,Yes,Yes,Yes,1 action,self,VS,,,Up to 8 hours
+4,Evard's Black Tentacles,Conjuration,No,238,No,No,No,No,No,No,No,Yes,1 action,90 feet6,VSM,A piece of tentacle from a giant octopus or a giant squid,No,"Concentration, up to 1 minute"
+1,Expeditious Retreat,Transmutation,No,238,No,No,No,No,No,Yes,No,Yes,1 bonus action,self,VS,,,"Concentration, up to 10 minutes"
+6,Eyebite,Necromancy,No,238,Yes,No,No,No,No,Yes,Yes,Yes,1 action,self,VS,,,"Concentration, up to 1 minute"
+4,Fabricate,Transmutation,No,239,No,No,No,No,No,No,No,Yes,10 minutes,120 feet,VS,,,Instantaneous
+1,Faerie Fire,Evocation,No,239,Yes,No,Yes,No,No,No,No,No,1 action,60 feet,V,,,"Concentration, up to 1 minute"
+1,False Life,Necromancy,No,239,No,No,No,No,No,Yes,No,Yes,1 action,self,VSM,A small amount of alcohol or distilled spirits,No,1 hour
+3,Fear,Illusion,No,239,No,No,No,No,No,Yes,Yes,Yes,1 action,self (30-foot cone),VSM,A white feather or the heart of a hen,No,"Concentration, up to 1 minute"
+1,Feather Fall,Transmutation,No,239,Yes,No,No,No,No,Yes,No,Yes,"1 reaction, which you take when you or a creature within 60 feet of you falls",60 feet,VM,A small feather or piece of down,No,1 minute
+8,Feeblemind,Enchantment,No,239,Yes,No,No,No,No,No,Yes,Yes,1 action,150 feet,VSM,"A handful of clay, crystal, glass, or mineral spheres",No,Instantaneous
+3,Feign Death,Necromancy,Yes,240,Yes,Yes,No,No,No,No,No,Yes,1 action,touch,VSM,A pinch of graveyard dirt,No,1 hour
+1,Find Familiar,Conjuration,Yes,240,No,No,No,No,No,No,No,Yes,1 hour,10 feet,VSM,"10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier",Yes,Instantaneous
+2,Find Steed,Conjuration,No,240,No,No,No,Yes,No,No,No,No,10 minutes,30 feet,VS,,,Instantaneous
+6,Find the Path,Divination,No,240,Yes,Yes,Yes,No,No,No,No,No,1 minute,self,VSM,"A set of divinatory tools - such as bones, ivory sticks, cards, teeth, or carved runes - worth 100 gp and an object from the location you wish to find.",No,"Concentration, up to 1 day"
+2,Find Traps,Divination,No,241,No,Yes,Yes,No,No,No,No,No,1 action,120 feet,VS,,,Instantaneous
+7,Finger of Death,Necromancy,No,241,No,No,No,No,No,Yes,Yes,Yes,1 action,60 feet,VS,,,Instantaneous
+0,Fire Bolt,Evocation,No,242,No,No,No,No,No,Yes,No,Yes,1 action,120 feet,VS,,,Instantaneous
+4,Fire Shield,Evocation,No,242,No,No,No,No,No,No,No,Yes,1 action,self,VSM,A bit of phosphorus or a firefly,No,10 minutes
+7,Fire Storm,Evocation,No,242,No,Yes,Yes,No,No,Yes,No,No,1 action,150 feet,VS,,,Instantaneous
+3,Fireball,Evocation,No,241,No,No,No,No,No,Yes,No,Yes,1 action,150 feet,VSM,,,Instantaneous
+2,Flame Blade,Evocation,No,242,No,Yes,Yes,No,No,No,No,No,1 bonus action,self,VSM,Leaf of sumac,No,"Concentration, up to 10 minutes"
+5,Flame Strike,Evocation,No,242,No,Yes,No,No,No,No,No,No,1 action,60 feet,VSM,Pinch of sulfur,No,Instantaneous
+2,Flaming Sphere,Conjuration,No,242,No,No,Yes,No,No,No,No,Yes,1 action,60 feet,VSM,"A bit of tallow, a pinch of brimstone, and a dusting of powdered iron",No,"Concentration, up to 1 minute"
+6,Flesh to Stone,Transmutation,No,243,No,No,No,No,No,No,Yes,Yes,1 action,60 feet,VSM,"A pinch of lime, water and earth",No,"Concentration, up to 1 minute"
+3,Fly,Transmutation,No,243,No,No,No,No,No,Yes,Yes,Yes,1 action,touch,VSM,A wing feather from any bird,No,"Concentration, up to 10 minutes"
+1,Fog Cloud,Conjuration,No,243,No,No,Yes,No,Yes,Yes,No,Yes,1 action,120 feet,VS,,,"Concentration, up to 1 hour"
+6,Forbiddance,Abjuration,Yes,243,No,Yes,No,No,No,No,No,No,10 minutes,touch,VSM,"A sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp",No,1 day
+7,Forcecage,Evocation,No,243,Yes,No,No,No,No,No,Yes,Yes,1 action,100 feet,VSM,"Ruby dust worth 1,500 gp",No,1 hour
+9,Foresight,Divination,No,244,Yes,No,Yes,No,No,No,Yes,Yes,1 minute,touch,VSM,A hummingbird feather,No,8 hours
+4,Freedom of Movement,Abjuration,No,244,Yes,Yes,Yes,No,Yes,No,No,No,1 action,touch,VSM,"A leather strap, bound around the arm or a similar appendage",No,1 hour
+0,Friends,Enchantment,No,244,Yes,No,No,No,No,Yes,Yes,Yes,1 action,self,SM,A small amount of makeup applied to the face as this spell is cast,No,"Concentration, up to 1 minute"
+3,Gaseous Form,Transmutation,No,244,No,No,No,No,No,Yes,Yes,Yes,1 action,touch,VSM,A bit of gauze and a wisp of smoke,No,"Concentration, up to 1 hour"
+9,Gate,Conjuration,No,244,No,Yes,No,No,No,Yes,No,Yes,1 action,60 feet,VSM,"A diamond worth at least 5,000 gp",No,"Concentration, up to 1 minute"
+5,Geas,Enchantment,No,244,Yes,Yes,Yes,No,No,No,No,Yes,1 minute,60 feet,V,,,30 days
+2,Gentle Repose,Necromancy,Yes,245,No,Yes,No,No,No,No,No,Yes,1 action,touch,VSM,"A pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration",No,10 days
+4,Giant Insect,Transmutation,No,245,No,No,Yes,No,No,No,No,No,1 action,30 feet,VS,,,"Concentration, up to 10 minutes"
+8,Glibness,Transmutation,No,245,Yes,No,No,No,No,No,Yes,No,1 action,self,V,,,1 hour
+6,Globe of Invulnerability,Abjuration,No,245,No,No,No,No,No,Yes,No,Yes,1 action,self (10-foot radius),VSM,A glass or crystal bead that shatters when the spell ends,Yes,"Concentration, up to 1 minute"
+3,Glyph of Warding,Abjuration,No,245,Yes,Yes,No,No,No,No,No,Yes,1 hour,touch,VSM,Incense and powdered diamond worth at least 200 gp,Yes,Until dispelled or triggered
+1,Goodberry,Conjuration,No,246,No,No,Yes,No,Yes,No,No,No,1 action,touch,VSM,A sprig of mistletoe,No,Instantaneous
+4,Grasping Vine,Conjuration,No,246,No,No,Yes,No,Yes,No,No,No,1 bonus action,30 feet,VS,,,"Concentration, up to 1 minute"
+1,Grease,Conjuration,No,246,No,No,No,No,No,No,No,Yes,1 action,60 feet,VSM,A bit of pork rind or butter,No,1 minute
+4,Greater Invisibility,Illusion,No,246,Yes,No,No,No,No,Yes,No,Yes,1 action,touch,VS,,,"Concentration, up to 1 minute"
+5,Greater Restoration,Abjuration,No,246,Yes,Yes,Yes,No,No,No,No,No,1 action,touch,VSM,Diamond dust worth at least 100 gp,Yes,Instantaneous
+4,Guardian of Faith,Conjuration,No,246,No,Yes,No,No,No,No,No,No,1 action,30 feet,V,,,8 hours
+6,Guards and Wards,Abjuration,No,248,Yes,No,No,No,No,No,No,Yes,10 minutes,touch,VSM,"Burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood and a small silver rod worth at least 10 gp",No,24 hours
+0,Guidance,Divination,No,248,No,Yes,Yes,No,No,No,No,No,1 action,touch,VS,,,"Concentration, up to 1 minute"
+1,Guiding Bolt,Evocation,No,248,No,Yes,No,No,No,No,No,No,1 action,120 feet,VS,,,1 round
+2,Gust of Wind,Evocation,No,248,No,No,Yes,No,No,Yes,No,Yes,1 action,self (60-foot line),VSM,A Legume seed,No,"Concentration, up to 1 minute"
+1,Hail of Thorns,Conjuration,No,249,No,No,No,No,Yes,No,No,No,1 bonus action,self,V,,,"Concentration, up to 1 minute"
+5,Hallow,Evocation,No,249,No,Yes,No,No,No,No,No,No,24 hours,touch,VSM,"Herbs, oils, and incense worth at least 1,000 gp",Yes,Until dispelled
+4,Hallucinatory Terrain,Illusion,No,249,Yes,No,Yes,No,No,No,Yes,Yes,10 minutes,300 feet,VSM,"A stone, a twig, and a bit of green plant",No,24 hours
+6,Harm,Necromancy,No,249,No,Yes,No,No,No,No,No,No,1 action,60 feet,VS,,,Instantaneous
+3,Haste,Transmutation,No,250,No,No,No,No,No,Yes,No,Yes,1 action,30 feet,VSM,A Shaving of Licorice root,No,"Concentration, up to 1 minute"
+6,Heal,Evocation,No,250,No,Yes,Yes,No,No,No,No,No,1 action,60 feet,VS,,,Instantaneous
+1,Healing Word,Evocation,No,250,Yes,Yes,Yes,No,No,No,No,No,1 bonus action,60 feet,V,,,Instantaneous
+2,Heat Metal,Transmutation,No,250,Yes,No,Yes,No,No,No,No,No,1 action,60 feet,VSM,A piece of iron and a flame,No,"Concentration, up to 1 minute"
+1,Hellish Rebuke,Evocation,No,250,No,No,No,No,No,No,Yes,No,"1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see",60 feet,VS,,,Instantaneous
+6,Heroes' Feast,Conjuration,No,250,No,Yes,Yes,No,No,No,No,No,10 minutes,30 feet,VSM,"A gem-encrusted bowl worth at least 1,000 gp",Yes,Instantaneous
+1,Heroism,Enchantment,No,250,Yes,No,No,Yes,No,No,No,No,1 action,touch,VS,,,"Concentration, up to 1 minute"
+1,Hex,Enchantment,No,251,No,No,No,No,No,No,Yes,No,1 bonus action,90 feet,VSM,The petrified eye of a newt,No,"Concentration, up to 1 hour"
+5,Hold Monster,Enchantment,No,251,Yes,No,No,No,No,Yes,Yes,Yes,1 action,90 feet,VSM,"A small, straight piece of iron",No,"Concentration, up to 1 minute"
+2,Hold Person,Enchantment,No,251,Yes,Yes,Yes,No,No,Yes,Yes,Yes,1 action,60 feet,VSM,"A small, straight piece of iron",No,"Concentration, up to 1 minute"
+8,Holy Aura,Abjuration,No,251,No,Yes,No,No,No,No,No,No,1 action,self,VSM,"A tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text",No,"Concentration, up to 1 minute"
+3,Hunger of Hadar,Conjuration,No,251,No,No,No,No,No,No,Yes,No,1 action,150 feet,VSM,A pickled octopus tentacle,No,"Concentration, up to 1 minute"
+1,Hunter's Mark,Divination,No,251,No,No,No,No,Yes,No,No,No,1 bonus action,90 feet,V,,,"Concentration, up to 1 hour"
+3,Hypnotic Pattern,Illusion,No,252,Yes,No,No,No,No,Yes,Yes,Yes,1 action,120 feet,SM,A glowing stick of incense or a crystal vial filled with phosphorescent material,No,"Concentration, up to 1 minute"
+4,Ice Storm,Evocation,No,252,No,No,Yes,No,No,Yes,No,Yes,1 action,300 feet,VSM,A pinch of dust and a few drops of water,No,Instantaneous
+1,Identify,Divination,Yes,252,Yes,No,No,No,No,No,No,Yes,1 minute,touch,VSM,A pearl worth at least 100 gp and an owl feather,No,Instantaneous
+1,Illusory Script,Illusion,Yes,252,No,No,No,No,No,No,No,Yes,1 minute,touch,SM,A lead-based ink worth at least 10 gp,Yes,10 days
+9,Imprisonment,Abjuration,No,252,No,No,No,No,No,No,Yes,Yes,1 minute,30 feet,VSM,"A vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the ersion of the spell you choose, worth at least 500 gp per Hit Die of the target",No,Until dispelled
+8,Incendiary Cloud,Conjuration,No,253,No,No,No,No,No,Yes,No,Yes,1 action,150 feet,VS,,,"Concentration, up to 1 minute"
+1,Inflict Wounds,Necromancy,No,253,No,Yes,No,No,No,No,Yes,No,1 action,touch,VS,,,Instantaneous
+5,Insect Plague,Conjuration,No,254,No,Yes,Yes,No,No,Yes,No,No,1 action,300 feet,VSM,"A few grains of sugar, some kernels of grain and a smear of fat",No,"Concentration, up to 10 minutes"
+2,Invisibility,Illusion,No,254,Yes,No,No,No,No,Yes,Yes,Yes,1 action,touch,VSM,An eyelash encased in gum arabic,No,"Concentration, up to 1 hour"
+1,Jump,Transmutation,No,254,Yes,No,Yes,No,Yes,Yes,No,Yes,1 action,touch,VSM,A grasshopper's hind leg,No,1 minute
+2,Knock,Transmutation,No,254,Yes,No,No,No,No,Yes,No,Yes,1 action,60 feet,V,,,Instantaneous
+5,Legend Lore,Divination,No,254,Yes,Yes,No,No,No,No,No,Yes,10 minutes,self,VSM,Incense worth at least 250 gp (consumed) and four ivory strips worth at least 50 gp each (not consumed),Yes,Instantaneous
+4,Leomund's Secret Chest,Conjuration,No,254,No,No,No,No,No,No,No,Yes,1 action,touch,VSM,"An exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a tiny replica made from the same materials worth at least 50 gp",No,Instantaneous
+3,Leomund's Tiny Hut,Evocation,Yes,255,No,No,No,No,No,No,No,Yes,1 minute,self (10-foot-radius hemisphere),VSM,A small crystal bead,No,8 hours
+2,Lesser Restoration,Abjuration,No,255,Yes,Yes,Yes,Yes,Yes,No,No,No,1 action,touch,VS,,,Instantaneous
+2,Levitate,Transmutation,No,255,No,No,No,No,No,Yes,No,Yes,1 action,60 feet,VSM,Either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end,No,"Concentration, up to 10 minutes"
+0,Light,Evocation,No,255,Yes,Yes,No,No,No,Yes,No,Yes,1 action,touch,VM,A firefly or phosphorescent moss,No,1 hour
+3,Lightning Arrow,Transmutation,No,255,No,No,No,No,Yes,No,No,No,1 bonus action,self,VS,,,"Concentration, up to 1 minute"
+3,Lightning Bolt,Evocation,No,255,No,No,No,No,No,Yes,No,Yes,1 action,self (100-foot line),VSM,"A bit of fur and a rod of amber, crystal or glass",No,Instantaneous
+2,Locate Animals or Plants,Divination,Yes,256,Yes,No,Yes,No,Yes,No,No,No,1 action,self,VSM,A bit of fur from a bloodhound,No,Instantaneous
+4,Locate Creature,Divination,No,256,Yes,Yes,Yes,No,Yes,No,No,Yes,1 action,self,VSM,A bit of fur from a bloodhound,No,"Concentration, up to 1 hour"
+2,Locate Object,Divination,No,256,Yes,Yes,No,No,No,No,No,No,1 action,self,VSM,A forked twig,No,"Concentration, up to 10 minutes"
+1,Longstrider,Transmutation,No,256,Yes,No,Yes,No,Yes,No,No,No,1 action,touch,VSM,A pinch of dirt,No,1 hour
+1,Mage Armor,Abjuration,No,256,No,No,No,No,No,Yes,No,Yes,1 action,touch,VSM,A piece of cured leather,No,8 hours
+0,Mage Hand,Conjuration,No,256,No,No,No,No,No,Yes,Yes,Yes,1 action,30 feet,VS,,,1 minute
+3,Magic Circle,Abjuration,No,256,No,Yes,No,Yes,No,No,Yes,Yes,1 minute,10 feet,VSM,Holy water or powdered silber and iron worth at least 100 gp,Yes,1 hour
+6,Magic Jar,Necromancy,No,257,No,No,No,No,No,No,No,Yes,1 minute,self,VSM,"A gem, crystal, reliquary, or some other ornamental container worth at least 500 gp",No,Until dispelled
+1,Magic Missile,Evocation,No,257,No,No,No,No,No,Yes,No,Yes,1 action,120 feet,VS,,,Instantaneous
+2,Magic Mouth,Illusion,Yes,257,Yes,No,No,No,No,No,No,Yes,1 minute,30 feet,VSM,A small bit of honeycomb and jade dust worth at least 10 gp,Yes,Until dispelled
+2,Magic Weapon,Transmutation,No,257,No,No,No,Yes,No,No,No,Yes,1 bonus action,touch,VS,,,"Concentration, up to 1 hour"
+3,Major Image,Illusion,No,258,Yes,No,No,No,No,Yes,No,Yes,1 action,120 feet,VSM,A bit of fleece,No,"Concentration, up to 10 minutes"
+5,Mass Cure Wounds,Conjuration,No,258,Yes,Yes,Yes,No,No,No,No,No,1 action,60 feet,VS,,,Instantaneous
+9,Mass Heal,Conjuration,No,258,No,Yes,No,No,No,No,No,No,1 action,60 feet,VS,,,Instantaneous
+3,Mass Healing Word,Evocation,No,258,No,Yes,No,No,No,No,No,No,1 bonus action,60 feet,V,,,Instantaneous
+6,Mass Suggestion,Enchantment,No,258,Yes,No,No,No,No,Yes,Yes,Yes,1 action,60 feet,VM,A snake's tongue and either a bit of honeycomb or a drop of sweet oil,No,24 hours
+8,Maze,Conjuration,No,258,No,No,No,No,No,No,No,Yes,1 action,60 feet,VS,,,"Concentration, up to 10 minutes"
+3,Meld into Stone,Transmutation,Yes,259,No,Yes,Yes,No,No,No,No,No,1 action,touch,VS,,,8 hours
+2,Melf's Acid Arrow,Evocation,No,259,No,No,No,No,No,No,No,Yes,1 action,90 feet,VSM,Powdered rhubarb leaf and an adder's stomach,No,Instantaneous
+0,Mending,Transmutation,No,259,Yes,Yes,Yes,No,No,Yes,No,Yes,1 minute,touch,VSM,Two lodestones,No,Instantaneous
+0,Message,Transmutation,No,259,Yes,No,No,No,No,Yes,No,Yes,1 action,120 feet,VSM,A piece of short copper wire,No,1 round
+9,Meteor Swarm,Evocation,No,259,No,No,No,No,No,Yes,No,Yes,1 action,1 mile,VS,,,Instantaneous
+8,Mind Blank,Abjuration,No,259,Yes,No,No,No,No,No,No,Yes,1 action,touch,VS,,,24 hours
+0,Minor Illusion,Illusion,No,260,Yes,No,No,No,No,Yes,Yes,Yes,1 action,30 feet,SM,A bit of fleece,No,1 minute
+7,Mirage Arcane,Illusion,No,260,No,No,Yes,No,No,No,No,Yes,10 minutes,sight,VS,,,10 days
+2,Mirror Image,Illusion,No,260,No,No,No,No,No,Yes,Yes,Yes,1 action,self,VS,,,1 minute
+5,Mislead,Illusion,No,260,Yes,No,No,No,No,No,No,Yes,1 action,self,S,,,"Concentration, up to 1 hour"
+2,Misty Step,Conjuration,No,260,No,No,No,No,No,Yes,Yes,Yes,1 bonus action,self,V,,,Instantaneous
+5,Modify Memory,Enchantment,No,261,Yes,No,No,No,No,No,No,Yes,1 action,30 feet,VS,,,"Concentration, up to 1 minute"
+2,Moonbeam,Evocation,No,261,No,No,Yes,Yes,Yes,Yes,Yes,Yes,1 action,120 feet,VSM,Several seeds of any moonseed plant and a piece of opalescent feldspar,No,"Concentration, up to 1 minute"
+4,Mordenkainen's Faithful Hound,Conjuration,No,261,No,No,No,No,No,No,No,Yes,1 action,30 feet,VSM,"A tiny silver whistle, a piece of bone and a thread",No,8 hours
+7,Mordenkainen's Magnificent Mansion,Conjuration,No,261,Yes,No,No,No,No,No,No,Yes,1 minute,300 feet,VSM,"A miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5gp",No,24 hours
+4,Mordenkainen's Private Sanctum,Conjuration,No,262,No,No,No,No,No,No,No,Yes,10 minutes,120 feet,VSM,"A thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth and powdered chrysolite",No,24 hours
+7,Mordenkainen's Sword,Evocation,No,262,Yes,No,No,No,No,No,No,Yes,1 action,60 feet,VSM,"A miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp",No,"Concentration, up to 1 minute"
+6,Move Earth,Transmutation,No,263,No,No,Yes,No,No,Yes,No,Yes,1 action,120 feet,VSM,"An iron blade, and a small bag containing a mixture of soils - clay, loam and sand",No,"Concentration, up to 2 hours"
+3,Nondetection,Abjuration,No,263,Yes,No,No,No,No,No,No,Yes,1 action,touch,VSM,"A pinch of diamond dust worth 25 gp, sprinkled over the target",Yes,8 hours
+2,Nystul's Magic Aura,Illusion,No,263,No,No,No,No,No,No,No,Yes,1 action,touch,VSM,A small square of silk,No,24 hours
+6,Otiluke's Freezing Sphere,Evocation,No,263,No,No,No,No,No,No,No,Yes,1 action,300 feet,VSM,A small crystal sphere,No,Instantaneous
+4,Otiluke's Resilient Sphere,Evocation,No,264,No,No,No,No,No,No,No,Yes,1 action,30 feet,VSM,A hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic,No,"Concentration, up to 1 minute"
+6,Otto's Irrestistible Dance,Enchantment,No,264,Yes,No,No,No,No,No,No,Yes,1 action,30 feet,V,,,"Concentration, up to 1 minute"
+2,Pass Without Trace,Abjuration,No,264,No,No,Yes,No,Yes,No,No,No,1 action,self,VSM,Ashes froma burned leaf of mistletoe and a sprig of spruce,No,"Concentration, up to 1 hour"
+5,Passwall,Transmutation,No,264,No,No,No,No,No,No,No,Yes,1 action,30 feet,VSM,A pinch of sesame seeds,No,1 hour
+2,Phantasmal Force,Illusion,No,264,Yes,No,No,No,No,Yes,No,Yes,1 action,60 feet,VSM,A bit of fleece,No,"Concentration, up to 1 minute"
+4,Phantasmal Killer,Illusion,No,265,No,No,No,No,No,No,No,Yes,1 action,120 feet,VS,,,"Concentration, up to 1 minute"
+3,Phantom Steed,Illusion,Yes,265,No,No,No,No,No,No,No,Yes,1 minute,30 feet,VS,,,1 hour
+6,Planar Ally,Conjuration,No,265,No,Yes,No,No,No,No,No,No,10 minutes,60 feet,VS,,,Instantaneous
+5,Planar Binding,Abjuration,No,265,Yes,Yes,Yes,No,No,No,No,Yes,1 hour,60 feet,VSM,"A jewel worth at least 1,000 gp.",Yes,24 hours
+7,Plane Shift,Conjuration,No,266,No,Yes,No,No,No,Yes,Yes,Yes,1 action,touch,VSM,"A forked, metal rod worth at least 250 gp, attuned to a particular plane of existence",No,Instantaneous
+3,Plant Growth,Transmutation,No,266,Yes,No,Yes,No,Yes,No,No,No,1 action or 8 hours,150 feet,VS,,,Instantaneous
+0,Poison Spray,Conjuration,No,266,No,No,Yes,No,No,Yes,Yes,Yes,1 action,10 feet,VS,,,Instantaneous
+4,Polymorph,Transmutation,No,266,Yes,No,No,Yes,No,Yes,No,Yes,1 action,60 feet,VSM,A caterpillar cocoon,No,"Concentration, up to 1 hour"
+9,Power Word Heal,Evocation,No,266,Yes,No,No,No,No,No,No,No,1 action,touch,VS,,,Instantaneous
+9,Power Word Kill,Enchantment,No,266,Yes,No,No,No,No,Yes,Yes,Yes,1 action,60 feet,V,,,Instantaneous
+8,Power Word Stun,Enchantment,No,267,Yes,No,No,No,No,Yes,Yes,Yes,1 action,60 feet,V,,,Instantaneous
+2,Prayer of Healing,Evocation,No,267,No,Yes,No,No,No,No,No,No,10 minutes,30 feet,V,,,Instantaneous
+0,Prestidigitation,Transmutation,No,267,Yes,No,No,No,No,Yes,Yes,Yes,1 action,10 feet,VS,,,Up to 1 hour
+7,Prismatic Spray,Evocation,No,267,No,No,No,No,No,Yes,No,Yes,1 action,self (60-foot cone),VS,,,Instantaneous
+9,Prismatic Wall,Abjuration,No,267,No,No,No,No,No,No,No,Yes,1 action,60 feet,VS,,,10 minutes
+0,Produce Flame,Conjuration,No,268,No,No,Yes,No,No,No,No,No,1 action,self,VS,,,10 minutes
+6,Programmed Illusion,Illusion,No,268,Yes,No,No,No,No,No,No,Yes,1 action,120 feet,VSM,A bit of fleece and jade dust worth at least 25 gp,No,Until dispelled
+7,Project Image,Illusion,No,270,Yes,No,No,No,No,No,No,Yes,1 action,500 miles,VSM,A small replica of you made from amterials worth at least 5 gp,No,"Concentration, up to 1 day"
+3,Protection from Energy,Abjuration,No,270,No,No,Yes,No,Yes,Yes,No,Yes,1 action,touch,VS,,,"Concentration, up to 1 hour"
+1,Protection from Evil and Good,Abjuration,No,270,No,Yes,No,Yes,No,No,No,Yes,1 action,touch,VSM,Holy water or powdered silver and iron,Yes,"Concentration, up to 10 minutes"
+2,Protection from Poison,Abjuration,No,270,No,Yes,Yes,Yes,Yes,No,No,No,1 action,touch,VS,,,1 hour
+1,Purify Food and Drink,Abjuration,Yes,270,No,Yes,Yes,Yes,No,No,No,No,1 action,10 feet,VS,,,Instantaneous
+5,Raise Dead,Necromancy,No,270,Yes,Yes,No,Yes,No,No,No,No,1 hour,touch,VSM,A diamond worth at least 500 gp,Yes,Instantaneous
+5,Rary's Telepathic Bond,Divination,Yes,270,No,No,No,No,No,No,No,Yes,1 action,30 feet,VSM,Pieces of eggshell from two different kinds of creatures,No,1 hour
+2,Ray of Enfeeblement,Necromancy,No,271,No,No,No,No,No,No,Yes,Yes,1 action,60 feet,VS,,,"Concentration, up to 1 minute"
+0,Ray of Frost,Evocation,No,271,No,No,No,No,No,Yes,No,Yes,1 action,60 feet,VS,,,Instantaneous
+1,Ray of Sickness,Necromancy,No,271,No,No,No,No,No,Yes,No,Yes,1 action,60 feet,VS,,,Instantaneous
+7,Regenerate,Transmutation,No,271,Yes,Yes,Yes,No,No,No,No,No,1 minute,touch,VSM,A prayer wheel and holy water,No,1 hour
+5,Reincarnate,Transmutation,No,271,No,No,Yes,No,No,No,No,No,1 hour,touch,VSM,"Rare oils and unguents worth at least 1,000 gp",Yes,Instantaneous
+3,Remove Curse,Abjuration,No,271,No,Yes,No,Yes,No,No,No,Yes,1 action,touch,VS,,,Instantaneous
+0,Resistance,Abjuration,No,272,No,Yes,Yes,No,No,No,No,No,1 action,touch,VSM,A miniature cloak,No,"Concentration, up to 1 minute"
+7,Resurrection,Necromancy,No,272,Yes,Yes,No,No,No,No,No,No,1 hour,touch,VSM,"A diamond worth at least 1,000 gp",Yes,Instantaneous
+7,Reverse Gravity,Transmutation,No,272,No,No,Yes,No,No,Yes,No,Yes,1 action,100 feet,VSM,A lodestone and iron fillings,No,"Concentration, up to 1 minute"
+3,Revivify,Conjuration,No,272,No,Yes,No,Yes,No,No,No,No,1 action,touch,VSM,Diamonds worth at least 300 gp,Yes,Instantaneous
+2,Rope Trick,Transmutation,No,272,No,No,No,No,No,No,No,Yes,1 action,touch,VSM,Powdered corn extract and a twisted loop of parchment,No,1 hour
+0,Sacred Flame,Evocation,No,272,No,Yes,No,No,No,No,No,No,1 action,60 feet,VS,,,Instantaneous
+1,Sanctuary,Abjuration,No,272,No,Yes,No,No,No,No,No,No,1 bonus action,30 feet,VSM,A small silver mirror,No,1 minute
+2,Scorching Ray,Evocation,No,273,No,No,No,No,No,Yes,No,Yes,1 action,120 feet,VS,,,Instantaneous
+5,Scrying,Divination,No,273,Yes,Yes,No,No,No,No,Yes,Yes,10 minutes,self,VSM,"A focus worth at least 1,000 gp, such as a crystal ball, a silver mirror or a font filled with holy water",No,"Concentration, up to 10 minutes"
+1,Searing Smite,Evocation,No,274,No,No,No,Yes,No,No,No,No,1 bonus action,self,V,,,"Concentration, up to 1 minute"
+2,See Invisibility,Divination,No,274,Yes,No,No,No,No,Yes,No,Yes,1 action,self,VSM,A pinch of talc and a small sprinking of powdered silver,No,1 hour
+5,Seeming,Illusion,No,274,Yes,No,No,No,No,Yes,No,Yes,1 action,30 feet,VS,,,8 hours
+3,Sending,Evocation,No,274,Yes,Yes,No,No,No,No,No,Yes,1 action,unlimited,VSM,A short piece of fine copper wire,No,1 round
+7,Sequester,Transmutation,No,274,No,No,No,No,No,No,No,Yes,1 action,touch,VSM,"A powder composed of diamond, emerald, ruby and sapphire dust worth at least 5,000 gp",Yes,Until dispelled
+9,Shapechange,Transmutation,No,274,No,No,Yes,No,No,No,No,Yes,1 action,self,VSM,"A jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell",No,"Concentration, up to 1 hour"
+2,Shatter,Evocation,No,275,Yes,No,No,No,No,Yes,Yes,Yes,1 action,60 eet,VSM,A chip of mica,No,Instantaneous
+1,Shield,Abjuration,No,275,No,No,No,No,No,Yes,No,Yes,"1 reaction, which you take when you are hit by an attack or targeted by the <em>magic missible</em> spell",self,VS,,,1 round
+1,Shield of Faith,Abjuration,No,275,No,Yes,No,Yes,No,No,No,No,1 bonus action,60 feet,VSM,A small parchment with a bit of holy text written on it,No,"Concentration, up to 10 minutes"
+0,Shillelagh,Transmutation,No,275,No,No,Yes,No,No,No,No,No,1 bonus action,touch,VSM,"Mistletoe, a shamrock leaf, and a club or quarterstaff",No,1 minute
+0,Shocking Grasp,Evocation,No,275,No,No,No,No,No,Yes,No,Yes,1 action,touch,VS,,,Instantaneous
+2,Silence,Illusion,Yes,275,Yes,Yes,No,No,Yes,No,No,No,1 action,120 feet,VS,,,"Concentration, up to 10 minutes"
+1,Silent Image,Illusion,No,276,Yes,No,No,No,No,Yes,No,Yes,1 action,60 feet,VSM,A bit of fleece,No,"Concentration, up to 10 minutes"
+7,Simulacrum,Illusion,No,276,No,No,No,No,No,No,No,Yes,12 hours,touch,VSM,"Snow or ice in quantities sufficient to make a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate",Yes,Until dispelled
+1,Sleep,Enchantment,No,276,Yes,No,No,No,No,Yes,No,Yes,1 action,90 feet,VSM,"A pinch of fine sand, rose petals, or a cricket",No,1 minute
+3,Sleet Storm,Conjuration,No,276,No,No,Yes,No,No,Yes,No,Yes,1 action,150 feet,VSM,A pinch of dust and a few drops of water,No,"Concentration, up to 1 minute"
+3,Slow,Transmutation,No,277,No,No,No,No,No,Yes,No,Yes,1 action,120 feet,VSM,A drop of molasses,No,"Concentration, up to 1 minute"
+0,Spare the Dying,Necromancy,No,277,No,Yes,No,No,No,No,No,No,1 action,touch,VS,,,Instantaneous
+1,Speak with Animals,Divination,Yes,277,Yes,No,Yes,No,Yes,No,No,No,1 action,self,VS,,,10 minutes
+3,Speak with Dead,Necromancy,No,277,Yes,Yes,No,No,No,No,No,No,1 action,10 feet,VSM,Burning incense,No,10 minutes
+3,Speak with Plants,Transmutation,No,277,Yes,No,Yes,No,Yes,No,No,No,1 action,self (30-foot radius),VS,,,10 minutes
+2,Spider Climb,Transmutation,No,277,No,No,No,No,No,Yes,Yes,Yes,1 action,touch,VSM,A drop of bitumen and a spider,No,"Concentration, up to 1 hour"
+2,Spike Growth,Transmutation,No,277,No,No,Yes,No,Yes,No,No,No,1 action,150 feet,VSM,"Seven sharp thorns or seven small twigs, each sharpened to a point",No,"Concentration, up to 10 minutes"
+3,Spirit Guardians,Conjuration,No,278,No,Yes,No,No,No,No,No,No,1 action,self (15-foot radius),VSM,A holy symbol,No,"Concentration, up to 10 minutes"
+2,Spiritual Weapon,Evocation,No,278,No,Yes,No,No,No,No,No,No,1 bonus action,60 feet,VS,,,1 minute
+4,Staggering Smite,Evocation,No,278,No,No,No,Yes,No,No,No,No,1 bonus action,self,V,,,"Concentration, up to 1 minute"
+3,Stinking Cloud,Conjuration,No,278,Yes,No,No,No,No,Yes,No,Yes,1 action,90 feet,VSM,A rotten egg or several skunk cabbage leaves,No,"Concentration, up to 1 minute"
+4,Stone Shape,Transmutation,No,278,No,Yes,Yes,No,No,Yes,No,Yes,1 action,touch,VSM,"Soft clay, which must be worked into roughly the desired shape of the stone object",No,Instantaneous
+4,Stoneskin,Abjuration,No,278,No,No,Yes,No,Yes,Yes,No,Yes,1 action,touch,VSM,Diamond dust worth 100 gp,Yes,"Concentration, up to 1 hour"
+9,Storm of Vengeance,Conjuration,No,279,No,No,Yes,No,No,No,No,No,1 action,sight,VS,,,"Concentration, up to 1 minute"
+2,Suggestion,Enchantment,No,279,Yes,No,No,No,No,Yes,Yes,Yes,1 action,30 feet,VM,A snake's tongue and either a bit of honeycomb or a drop of sweet oil,No,"Concentration, up to 8 hours"
+6,Sunbeam,Evocation,No,279,No,No,Yes,No,No,Yes,No,Yes,1 action,self (60-foot line),VSM,A magnifying glass,No,"Concentration, up to 1 minute"
+8,Sunburst,Evocation,No,279,No,No,No,No,No,Yes,No,Yes,1 action,150 feet,VSM,Fire and a piece of sunstone,No,Instantaneous
+5,Swift Quiver,Transmutation,No,279,No,No,No,No,Yes,No,No,Yes,1 bonus action,touch,VSM,A quiver containing at least one piece of ammunition,No,"Concentration, up to 1 minute"
+7,Symbol,Abjuration,No,280,Yes,Yes,No,No,No,No,No,Yes,1 minute,touch,VSM,"Mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp",Yes,Until dispelled or triggered
+1,Tasha's Hideous Laughter,Enchantment,No,280,Yes,No,No,No,No,No,No,Yes,1 action,30 feet,VSM,tiny tarts and a feather that is waved in the air,No,"Concentration, up to 1 minute"
+5,Telekinesis,Transmutation,No,280,No,No,No,No,No,Yes,No,Yes,1 action,60 feet,VS,,,"Concentration, up to 10 minutes"
+8,Telepathy,Evocation,No,281,No,No,No,No,No,No,No,Yes,1 action,unlimited,VSM,A pair of linked silver rings,No,24 hours
+7,Teleport,Conjuration,No,281,Yes,No,No,No,No,Yes,No,Yes,1 action,10 feet,V,,,Instantaneous
+5,Teleportation Circle,Conjuration,No,282,Yes,No,No,No,No,Yes,No,Yes,1 minute,10 feet,VM,rare chalks and inks infused with precious gems with 50 gp,Yes,1 round
+1,Tenser's Floating Disk,Conjuration,Yes,282,No,No,No,No,No,No,No,Yes,1 action,30 feet,VSM,A drop of mercury,No,1 hour
+0,Thaumaturgy,Transmutation,No,282,No,Yes,No,No,No,No,No,No,1 action,30 feet,V,,,Up to 1 minute
+0,Thorn Whip,Transmutation,No,282,No,No,Yes,No,No,No,No,No,1 action,30 feet,VSM,The stem of a plant with thorns,No,Instantaneous
+1,Thunderous Smite,Evocation,No,282,No,No,No,Yes,No,No,No,No,1 bonus action,self,V,,,"Concentration, up to 1 minute"
+1,Thunderwave,Evocation,No,282,Yes,No,No,No,No,Yes,No,Yes,1 action,self (15-foot cube),VS,,,Instantaneous
+9,Time Stop,Transmutation,No,283,No,No,No,No,No,Yes,No,Yes,1 action,self,V,,,Instantaneous
+3,Tongues,Divination,No,283,Yes,Yes,No,No,No,Yes,Yes,Yes,1 action,touch,VM,A small clay model of a ziggurat,No,1 hour
+6,Transport via Plants,Conjuration,No,283,No,No,Yes,No,No,No,No,No,1 action,10 feet,VS,,,1 round
+5,Tree Stride,Conjuration,No,283,No,No,Yes,No,Yes,No,No,No,1 action,self,VS,,,"Concentration, up to 1 minute"
+9,True Polymorph,Transmutation,No,283,Yes,No,No,No,No,No,Yes,Yes,1 action,30 feet,VSM,"A drop of mercury, a dollop of gum arabic, and a wisp of smoke",No,"Concentration, up to 1 hour"
+9,True Resurrection,Necromancy,No,284,No,Yes,Yes,No,No,No,No,No,1 hour,touch,VSM,"A sprinkle of holy water and diamonds worth at least 25,000 gp",Yes,Instantaneous
+6,True Seeing,Divination,No,284,Yes,Yes,No,No,No,Yes,Yes,Yes,1 action,touch,VSM,"An ointment of the eyes that costs 25 gp; made from mushroom powder, saffron, and fat",Yes,1 hour
+0,True Strike,Divination,No,284,Yes,No,No,No,No,Yes,No,Yes,1 action,30 feet,S,,,"Concentration, up to 1 round"
+8,Tsunami,Conjuration,No,284,No,No,Yes,No,No,No,No,No,1 minute,sight,VS,,,"Concentration, up to 6 rounds"
+1,Unseen Servant,Conjuration,Yes,284,Yes,No,No,No,No,No,Yes,Yes,1 action,60 feet,VSM,A piece of string and a bit of wood,No,1 hour
+3,Vampiric Touch,Necromancy,No,285,No,No,No,No,No,No,Yes,Yes,1 action,self,VS,,,"Concentration, up to 1 minute"
+0,Vicious Mockery,Enchantment,No,285,Yes,No,No,No,No,No,No,No,1 action,60 feet,V,,,Instantaneous
+4,Wall of Fire,Evocation,No,285,No,No,Yes,No,No,Yes,No,Yes,1 action,120 feet,VSM,A small piece of phosphorus,No,"Concentration, up to 1 minute"
+5,Wall of Force,Evocation,No,285,No,No,No,No,No,No,No,Yes,1 action,120 feet,VSM,A pinch of powdef made by crushing a clear gemstone,No,"Concentration, up to 10 minutes"
+6,Wall of Ice,Evocation,No,285,No,No,No,No,No,No,No,Yes,1 action,120 feet,VSM,A small piece of quartz,No,"Concentration, up to 10 minutes"
+5,Wall of Stone,Evocation,No,287,No,No,Yes,No,No,Yes,No,Yes,1 action,120 feet,VSM,A small block of granite,No,"Concentration, up to 10 minutes"
+6,Wall of Thorns,Conjuration,No,287,No,No,Yes,No,No,No,No,No,1 action,120 feet,VSM,A handful of thorns,No,"Concentration, up to 10 minutes"
+2,Warding Bond,Abjuration,No,287,No,No,Yes,No,No,No,No,No,1 action,touch,VSM,"A pair of platinum rings wodth at least 50 gp, which you and the target must wear for the duration",No,1 hour
+3,Water Breathing,Transmutation,Yes,287,No,No,Yes,No,Yes,Yes,No,Yes,1 action,30 feet,VSM,A short reed or piece of straw,No,24 hours
+3,Water Walk,Transmutation,Yes,287,No,Yes,Yes,No,Yes,Yes,No,No,1 action,30 feet,VSM,A piece of cork,No,1 hour
+2,Web,Conjuration,No,287,No,No,No,No,No,Yes,No,Yes,1 action,60 feet,VSM,A bit of spiderweb,No,"Concentration, up to 1 hour"
+9,Weird,Illusion,No,288,No,No,No,No,No,No,No,Yes,1 action,120 feet,VS,,,"Concentration, up to 1 minute"
+6,Wind Walk,Transmutation,No,288,No,No,Yes,No,No,No,No,No,1 minute,30 feet,VSM,Fire and holy water,No,8 hours
+3,Wind Wall,Evocation,No,288,No,No,Yes,No,Yes,No,No,No,1 action,120 feet,VSM,A tiny fan and a feather of exotic origin,No,"Concentration, up to 1 minute"
+9,Wish,Conjuration,No,288,No,No,No,No,No,Yes,No,Yes,1 action,self,V,,,Instantaneous
+1,Witch Bolt,Evocation,No,289,No,No,No,No,No,Yes,Yes,Yes,1 action,30 feet,VSM,A twig from a tree that has been struck by lightening,No,"Concentration, up to 1 minute"
+6,Word of Recall,Conjuration,No,289,No,Yes,No,No,No,No,No,No,1 action,5 feet,V,,,Instantaneous
+1,Wrathful Smite,Evocation,No,289,No,No,No,Yes,No,No,No,No,1 bonus action,self,V,,,"Concentration, up to 1 minute"
+2,Zone of Truth,Enchantment,No,289,Yes,Yes,No,Yes,No,No,No,No,1 action,60 feet,VS,,,10 minutes
