@@ -1,0 +1,11 @@
+# Build Directories
+obj/
+bin/
+static/
+
+# Do not check me in EVAH
+config/config-local.json
+cert/
+
+# Donwloadables
+node_modules/

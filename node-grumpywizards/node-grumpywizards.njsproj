@@ -37,7 +37,10 @@
     <Folder Include="cert\" />
     <Folder Include="src\" />
     <Folder Include="src\controllers\" />
+    <Folder Include="src\views\" />
     <Folder Include="src\static\" />
+    <Folder Include="src\views\home\" />
+    <Folder Include="src\views\_layouts\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Gulpfile.js" />
@@ -52,6 +55,8 @@
     <Content Include="config\config.json" />
     <Content Include="config\log4js.json" />
     <Content Include="src\static\favicon.ico" />
+    <Content Include="src\views\home\index.html" />
+    <Content Include="src\views\_layouts\main.html" />
   </ItemGroup>
   <!-- Do not delete the following Import Project.  While this appears to do nothing it is a marker for setting TypeScript properties before our import that depends on them. -->
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" Condition="False" />

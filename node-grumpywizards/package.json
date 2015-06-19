@@ -1,0 +1,57 @@
+{
+  "name": "node-grumpywizards",
+  "version": "0.0.1",
+  "description": "A Node.JS and MVC version of Grumpy Wizards",
+  "main": "server/bootstrap.js",
+  "scripts": {
+    "start": "node bin/bootstrap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianhall/node-stuff.git"
+  },
+  "author": {
+    "email": "adrian@shellmonger.com",
+    "name": "Adrian Hall"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianhall/node-stuff/issues"
+  },
+  "homepage": "https://github.com/adrianhall/node-stuff#readme",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "cookie-parser": "^1.3.5",
+    "ejs": "^2.3.1",
+    "express": "^4.12.4",
+    "express-partials": "^0.3.0",
+    "express-session": "^1.11.3",
+    "log4js": "^0.6.26",
+    "method-override": "^2.3.3",
+    "object-assign": "^3.0.0",
+    "serve-favicon": "^2.3.0",
+    "serve-static": "^1.10.0"
+  },
+  "devDependencies": {
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0",
+    "gulp-eslint": "^0.14.0"
+  },
+  "gulpConfig": {
+    "src": {
+      "server": "./src",
+      "static": "./src/static"
+    },
+    "dest": {
+      "server": "./bin",
+      "static": "./static"
+    }
+  },
+  "eslintConfig": {
+    "envs": {
+      "node": true,
+      "es6": true
+    }
+  }
+}

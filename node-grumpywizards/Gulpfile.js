@@ -22,15 +22,22 @@ gulp.task("build:server", ["_build:lint"], function () {
         .pipe(gulp.dest(config.dest.server));
 });
 
-gulp.task("build:static", ["_build:icons"]);
+gulp.task("build:static", [
+    "_build:views",
+    "_build:icons"
+]);
 
 gulp.task("_build:icons", function () {
     return gulp.src(config.src.static + "/**/*.ico")
         .pipe(gulp.dest(config.dest.static));
 });
 
+gulp.task("_build:views", function () {
+    return gulp.src(config.src.server + "/views/**/*.html")
+        .pipe(gulp.dest(config.dest.server + "/views"));
+});
+
 gulp.task("_build:lint", function () {
-    console.dir(npmConfig.eslintConfig);
     return gulp.src(config.src.server + "/**/*.js")
         .pipe(eslint(npmConfig.eslintConfig))
         .pipe(eslint.format())
