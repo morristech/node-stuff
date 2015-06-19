@@ -1,0 +1,37 @@
+﻿{
+  "port": 3000,
+  "host": "localhost",
+  "defaultRoute": "/home",
+  "https": {
+    "ciphers": "ECDHE-RSA-AES128-SHA256:DHE-RSA-AES128-SHA256:AES128-GCM-SHA256:RC4:HIGH:!MD5:!aNULL",
+    "honorCipherOrder": true
+  },
+  "views": {
+    "directory": "./views",
+    "options": {
+      "defaultLayout": "_layouts/main"
+    }
+  },
+  "controllers": {
+    "directory": "./controllers"
+  },
+  "session": {
+    "options": {
+      "secret": "app-secret",
+      "resave": false,
+      "saveUninitialized": false,
+      "unset": "destroy"
+    }
+  },
+  "staticFiles": {
+    "directory": "../static",
+    "favicon": "../static/favicon.ico",
+    "options": {
+      "dotfiles": "ignore",
+      "etag": true,
+      "index": [ "index.html", "index.htm" ],
+      "lastModified": true,
+      "redirect": true
+    }
+  }
+}
